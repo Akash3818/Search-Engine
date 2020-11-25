@@ -1,0 +1,44 @@
+ body{
+            background-image: url(pexels-francesco-ungaro-2325446.jpg);
+            background-size: 1560px 860px;
+            
+        }
+#SearchBar{
+    background-color: white;
+    padding: 12px 10px;
+    flex: 1;
+    border-left-width: 0;
+    border-bottom-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    outline: none;
+    font-size: 1.125rem;
+    position: fixed;
+    top:380px;
+    left: 520px;
+    width: 400px;
+    
+}
+#SearchTag{
+    color: white;
+    text-decoration: none;
+    font-family:calibri;
+    background-color: Blue; 
+    padding: 12.7px 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    position: fixed;
+     top:380px;
+    left: 921px;
+    
+}
+h1{
+    font-size: 80px;
+    position: fixed;
+    top: 190px;
+    left: 520px;
+    font-family:calibri;
+    
+}
